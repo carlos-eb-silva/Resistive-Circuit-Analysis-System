@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector> // Não usarei nessa versão, mas pode ser útil para armazenar os valores dos resistores, correntes, etc futuramente.
+#include <vector>
 
 using std::cout;
 using std::cin;
